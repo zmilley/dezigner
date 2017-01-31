@@ -4,10 +4,6 @@
     <title>Document</title>
 </head>
 <body>
-    <ul>
-    @foreach ($tasks as $task)
-        <li>{{$task}}</li>
-    @endforeach
-    </ul>
+    <h1>About</h1>
 </body>
 </html>
